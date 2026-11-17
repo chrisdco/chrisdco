@@ -1,22 +1,19 @@
-# Hi! I’m Chris🐞
+# Hi, I'm Chris 🐞
 
-I’m interested in building scalable systems and working across backend engineering and system design, with a growing focus on applying **AI/ML to real-world software** and production use cases.
+Software engineer focused on backend systems: APIs, data pipelines, realtime features, and the cloud infrastructure they run on. Comfortable across the stack.
 
-## 🛠 Tech
+At work I build backend services and take them to production. On the side I'm exploring local-first sync, realtime collaboration, and mobile.
 
-**Languages:** TypeScript, Python, C#, Java  
-**Frameworks:** React, Next.js, Node.js, FastAPI  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**Cloud & Tools:** Docker, AWS, Git
+**Side projects**
+- [VimTex](https://github.com/chrisdco/VimTex): realtime collaborative LaTeX editor with Vim keybindings (Yjs, Cloudflare Durable Objects)
+- [Incline](https://github.com/chrisdco/incline): offline-first strength training app with its own sync engine
+- [Buds](https://github.com/chrisdco/buds): live group maps over private realtime channels
+- [shh-its-ssh](https://github.com/chrisdco/shh-its-ssh): my portfolio, served over SSH
 
-## 🔬 Highlights
+**Usually working with** TypeScript · Python · PostgreSQL · Redis · AWS · React
 
-- Published peer-reviewed AI research **Q2/Q3 journals** (Deepfakes & Computer Vision)
-- Passionate about system design, performance and production
-- Open to collaborations where **software engineering meets AI**
+**Papers**
+- [Deepfake detection via spatial–temporal deep networks](https://doi.org/10.1007/s42452-025-08014-w), Discover Applied Sciences, 2026
+- [Benchmarking LLMs against domain-specialized architectures for summarization and tagging](https://www.ijfis.org/journal/view.html?uid=1129), IJFIS, 2025
 
-## 📬 Connect
-- 📧 [chrisdcosta.work@gmail.com](mailto:chrisdcosta.work@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/chrisdco/)  
-- 🌐 [Website](https://chrisdco.vercel.app)
-
+[chrisdco.vercel.app](https://chrisdco.vercel.app) · [LinkedIn](https://www.linkedin.com/in/chrisdco/) · [X](https://x.com/chrisdcodes)
