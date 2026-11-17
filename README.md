@@ -1,6 +1,6 @@
 # Hi, I'm Chris 🐞
 
-Software engineer focused on backend systems: APIs, data pipelines, realtime features, and the cloud infrastructure they run on. Comfortable across the stack.
+Software engineer focused on backend systems: APIs, data pipelines, realtime features, and the cloud infrastructure they run on.
 
 At work I take systems from design to production across the stack: architecture, data models, cloud infrastructure, migrations, and frontend.
 
