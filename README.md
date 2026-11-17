@@ -2,7 +2,7 @@
 
 Software engineer focused on backend systems: APIs, data pipelines, realtime features, and the cloud infrastructure they run on. Comfortable across the stack.
 
-At work I build backend services and take them to production.
+At work I take systems from design to production across the stack: architecture, data models, cloud infrastructure, migrations, and frontend.
 
 **Currently exploring**
 - Local-first sync and CRDTs (Incline's sync engine, VimTex's shared rooms)
